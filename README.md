@@ -1,4 +1,4 @@
-![Flutter Book App github](https://user-images.githubusercontent.com/55942632/75602491-cc529500-5aeb-11ea-857f-f9470422e526.png)
+![Flutter Book App github](https://user-images.githubusercontent.com/55942632/75602848-ecd01e80-5aee-11ea-8c2c-93dab292f3ea.png)
 
 [![Codemagic build status](https://api.codemagic.io/apps/5e5a05d2e38993001a0e7395/5e5a05d2e38993001a0e7394/status_badge.svg)](https://codemagic.io/apps/5e5a05d2e38993001a0e7395/5e5a05d2e38993001a0e7394/latest_build)
 
