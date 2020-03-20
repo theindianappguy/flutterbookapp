@@ -3,7 +3,7 @@
     
 <p align="center">
   <a href="https://twitter.com/Theindianappguy">
-    <img src="https://img.shields.io/github/stars/theindianappguy/rest_app?style=for-the-badge" alt="Total downloads on GitHub." /></a>
+    <img src="https://img.shields.io/github/stars/theindianappguy/flutterbookapp?style=for-the-badge" alt="Total downloads on GitHub." /></a>
 <a href="https://www.linkedin.com/in/lamsanskar/">
     <img src="https://img.shields.io/badge/Support-Recommed%2FEndorse%20me%20on%20Linkedin-yellow?style=for-the-badge&logo=linkedin" alt="Recommend me on LinkedIn" /></a>
 
