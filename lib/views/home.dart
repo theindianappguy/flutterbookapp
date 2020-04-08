@@ -122,8 +122,8 @@ class _MyHomePageState extends State<MyHomePage> {
 
 class CategorieTile extends StatefulWidget {
 
-  String text;
-  bool isSelected;
+  final String text;
+  final bool isSelected;
   CategorieTile({this.text, @required this.isSelected});
 
   @override
@@ -167,8 +167,8 @@ class _CategorieTileState extends State<CategorieTile> {
 
 class BooksTile extends StatelessWidget {
 
-  String imgAssetPath,title,description, categorie;
-  int rating;
+  final String imgAssetPath,title,description, categorie;
+  final int rating;
   BooksTile({@required this.rating,@required this.description,
     @required this.title,@required this.categorie, @required this.imgAssetPath});
 
@@ -253,7 +253,7 @@ class BooksTile extends StatelessWidget {
 
 class SingleBookTile extends StatelessWidget {
 
-  String title,categorie, imgAssetPath;
+  final String title,categorie, imgAssetPath;
   SingleBookTile({this.title,this.categorie,this.imgAssetPath});
 
   @override
